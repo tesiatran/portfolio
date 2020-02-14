@@ -649,7 +649,7 @@ transition: opacity 0.35s ease 0s, transform 0.35s ease 0s;
 	left: 8px;
 	padding: 25px;
 	opacity: 0;
-	background: rgba(255,255,255,0.8);
+	background: rgba(255,255,255,0.95);
 	text-align: center;
 	-webkit-transform: scale(1.1);
 	-moz-transform: scale(1.1);
