@@ -658,7 +658,7 @@ transition: opacity 0.35s ease 0s, transform 0.35s ease 0s;
 	transform: scale(1.1);
 }
 
-.portfolio-items-container .portfolio-item a {
+/* .portfolio-items-container .portfolio-item a {
 	font-size: 0;
 	height: 100%;
 	left: 0;
@@ -668,7 +668,7 @@ transition: opacity 0.35s ease 0s, transform 0.35s ease 0s;
 	top: 0;
 	width: 100%;
 	z-index: 1000;
-}
+} */
 
 .portfolio-items-container .caption-inner {
 	position: absolute;
